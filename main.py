@@ -1,10 +1,12 @@
 import argparse
-import datetime, threading, time
-from pythonping import ping
-import mysql.connector
+import datetime
+import threading
+import time
 
 import dns
 import dns.resolver
+import mysql.connector
+from pythonping import ping
 
 next_call = time.time()
 
