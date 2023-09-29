@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="pathToExecutable" value="C:\Users\SBooth937\AppData\Roaming\Python\Python311\Scripts\black.exe" />
+    <option name="sdkUUID" value="b0a4ebd8-097d-4e7a-ae44-a2c5ec291361" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (periodicping)" project-jdk-type="Python SDK" />
+</project>
