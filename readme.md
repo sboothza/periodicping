@@ -1,8 +1,10 @@
 # Periodic Network Ping Tool
 
-Logs basic network stats to a mysql db  
-Simple enough to convert to any other db if you like  
-Originally logged to tsv file for import, but this became too unstable for log-term use
+This was to prove to my ISP that their network sucks.  
+
+Logs basic network stats to a mysql db.  
+Simple enough to convert to any other db if you like.  
+Originally logged to tsv file for import, but this became too unstable for log-term use.  
 
 ## Usage
 
